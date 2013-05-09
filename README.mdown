@@ -1,0 +1,4 @@
+####SparkInspector Experimental App
+
+SparkInspector appears to be designed for use with Xcode and Objective-C. Will it work with RubyMotion? Let's find out!
+
